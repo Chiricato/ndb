@@ -1,15 +1,15 @@
 {
-  "name": "ndb",
+  "name": "tandb",
   "version": "6.0.0",
   "description": "Some code for accessing databases",
   "author": "TanLe",
   "license": {
     "type": "MIT",
-    "url": "https://github.com/sleeplessinc/db/raw/master/LICENSE"
+    "url": "https://github.com/Chiricato/db/raw/master/LICENSE"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Chiricato/ndb.git"
+    "url": "git+https://github.com/Chiricato/ndb.git"
   },
   "dependencies": {
     "mariadb": "^3.2.3",

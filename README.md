@@ -10,7 +10,7 @@ Some database access code for:
 
 # Installation
 
-    npm install db
+    npm install tandb
 
 # Usage
 
